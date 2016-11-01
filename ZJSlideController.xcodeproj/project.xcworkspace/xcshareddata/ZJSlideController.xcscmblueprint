@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3765A91A68E17A38C0B5FC0734A67AA830131347",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F3FD09F70E1C35541C53EF1A18284503A6285DE7" : 0,
+    "3765A91A68E17A38C0B5FC0734A67AA830131347" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "57E207A2-699A-467F-93E5-C6467988B1F4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F3FD09F70E1C35541C53EF1A18284503A6285DE7" : "",
+    "3765A91A68E17A38C0B5FC0734A67AA830131347" : "ZJSlideController\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ZJSlideController",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ZJSlideController.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jasnig\/ZJDrawerController.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3765A91A68E17A38C0B5FC0734A67AA830131347"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.coding.net\/ZeroJ\/Book.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F3FD09F70E1C35541C53EF1A18284503A6285DE7"
+    }
+  ]
+}
